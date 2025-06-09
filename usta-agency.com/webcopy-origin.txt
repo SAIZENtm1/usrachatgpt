@@ -1,0 +1,80 @@
+Uri: https://cdn.cookie-script.com/s/899727f31c3be852a3d5b314cea43a3f.js
+File Name: C:\Downloaded Web Sites\usta-agency.com\s\899727f31c3be852a3d5b314cea43a3f.js
+Content Type: application/javascript
+
+Uri: https://form.jotform.com/static/feedback2.js
+File Name: C:\Downloaded Web Sites\usta-agency.com\static\feedback2.js
+Content Type: application/x-javascript
+
+Uri: https://usta-agency.com/
+File Name: C:\Downloaded Web Sites\usta-agency.com\index.htm
+Content Type: text/html
+
+Uri: https://usta-agency.com/favicon.svg
+File Name: C:\Downloaded Web Sites\usta-agency.com\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://usta-agency.com/it/
+File Name: C:\Downloaded Web Sites\usta-agency.com\it\index.htm
+Content Type: text/html
+
+Uri: https://usta-agency.com/linkedin-in.svg
+File Name: C:\Downloaded Web Sites\usta-agency.com\linkedin-in.svg
+Content Type: image/svg+xml
+
+Uri: https://usta-agency.com/sitemap-index.xml
+File Name: C:\Downloaded Web Sites\usta-agency.com\sitemap-index.xml
+Content Type: application/xml
+
+Uri: https://usta-agency.com/_astro/hoisted.4c39c7ce.js
+File Name: C:\Downloaded Web Sites\usta-agency.com\_astro\hoisted.4c39c7ce.js
+Content Type: application/x-javascript
+
+Uri: https://usta-agency.com/_astro/hoisted.d75b784e.css
+File Name: C:\Downloaded Web Sites\usta-agency.com\_astro\hoisted.d75b784e.css
+Content Type: text/css
+
+Uri: https://usta-agency.com/_astro/index.ba2dd3e4.css
+File Name: C:\Downloaded Web Sites\usta-agency.com\_astro\index.ba2dd3e4.css
+Content Type: text/css
+
+Uri: https://usta-agency.com/_astro/montserrat-cyrillic-ext-wght-normal.a0c152a7.woff2
+File Name: C:\Downloaded Web Sites\usta-agency.com\_astro\montserrat-cyrillic-ext-wght-normal.a0c152a7.woff2
+Content Type: font/woff2
+
+Uri: https://usta-agency.com/_astro/montserrat-cyrillic-wght-normal.637f5453.woff2
+File Name: C:\Downloaded Web Sites\usta-agency.com\_astro\montserrat-cyrillic-wght-normal.637f5453.woff2
+Content Type: font/woff2
+
+Uri: https://usta-agency.com/_astro/montserrat-latin-ext-wght-normal.6e1f71b0.woff2
+File Name: C:\Downloaded Web Sites\usta-agency.com\_astro\montserrat-latin-ext-wght-normal.6e1f71b0.woff2
+Content Type: font/woff2
+
+Uri: https://usta-agency.com/_astro/montserrat-latin-wght-normal.bb2f9008.woff2
+File Name: C:\Downloaded Web Sites\usta-agency.com\_astro\montserrat-latin-wght-normal.bb2f9008.woff2
+Content Type: font/woff2
+
+Uri: https://usta-agency.com/_astro/montserrat-vietnamese-wght-normal.26a448d7.woff2
+File Name: C:\Downloaded Web Sites\usta-agency.com\_astro\montserrat-vietnamese-wght-normal.26a448d7.woff2
+Content Type: font/woff2
+
+Uri: https://usta-agency.com/_astro/oswald-cyrillic-ext-wght-normal.d1712bfb.woff2
+File Name: C:\Downloaded Web Sites\usta-agency.com\_astro\oswald-cyrillic-ext-wght-normal.d1712bfb.woff2
+Content Type: font/woff2
+
+Uri: https://usta-agency.com/_astro/oswald-cyrillic-wght-normal.074fcb4b.woff2
+File Name: C:\Downloaded Web Sites\usta-agency.com\_astro\oswald-cyrillic-wght-normal.074fcb4b.woff2
+Content Type: font/woff2
+
+Uri: https://usta-agency.com/_astro/oswald-latin-ext-wght-normal.5dc54bae.woff2
+File Name: C:\Downloaded Web Sites\usta-agency.com\_astro\oswald-latin-ext-wght-normal.5dc54bae.woff2
+Content Type: font/woff2
+
+Uri: https://usta-agency.com/_astro/oswald-latin-wght-normal.241ced7f.woff2
+File Name: C:\Downloaded Web Sites\usta-agency.com\_astro\oswald-latin-wght-normal.241ced7f.woff2
+Content Type: font/woff2
+
+Uri: https://usta-agency.com/_astro/oswald-vietnamese-wght-normal.5c2f5d2f.woff2
+File Name: C:\Downloaded Web Sites\usta-agency.com\_astro\oswald-vietnamese-wght-normal.5c2f5d2f.woff2
+Content Type: font/woff2
+
